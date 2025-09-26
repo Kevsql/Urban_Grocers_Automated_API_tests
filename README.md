@@ -1,10 +1,6 @@
-# Proyecto Urban Grocers
-Kevin Alvarado Salazar 
-
-Pruebas automatizadas de API para el parámetro '"name":' que se utiliza al momento de crear un kit para un/a nuevo/a usuario/a 
-
-Documentación: "url del servidor" + "/docs/#api-Main.Kits-CreateKit"
-
+# Urban Grocers
+Casos de prueba automatizados para el parámetro '"name":' que se utiliza al momento de crear un kit para un/a nuevo/a usuario/a en la API de la aplicación.
+#
 Tecnologías utilizadas:
 - PyCharm (PyCharm 2025.1.3).
 - Python (Versión 3.13).
